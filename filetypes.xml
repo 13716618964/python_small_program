@@ -8,6 +8,7 @@
       <mapping pattern="0123420181022185714" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="0123420181022185528" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="16" type="PLAIN_TEXT" />
     </extensionMap>

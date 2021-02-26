@@ -1,16 +1,16 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern="0123420181023161108" type="PLAIN_TEXT" />
-      <mapping pattern="0123420181022185513" type="PLAIN_TEXT" />
-      <mapping pattern="mysql_config" type="PLAIN_TEXT" />
-      <mapping pattern="0123420181022185714" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="0123420181022185714" type="PLAIN_TEXT" />
+      <mapping pattern="0123420181022185513" type="PLAIN_TEXT" />
       <mapping pattern="0123420181022185528" type="PLAIN_TEXT" />
-      <mapping ext="lnk" type="PLAIN_TEXT" />
+      <mapping pattern="0123420181023161108" type="PLAIN_TEXT" />
+      <mapping pattern="mysql_config" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="16" type="PLAIN_TEXT" />
+      <mapping ext="lnk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
